@@ -1,8 +1,11 @@
 .loader {
   display: flex;
+  text-align: center;
+  align-items: center;
+  margin: auto;
   width: 120px;
   height: 150px;
-  background-color: #fff;
+  background-color: #ff0000;
   background-repeat: no-repeat;
   background-image: linear-gradient(#ddd 50%, #bbb 51%),
     linear-gradient(#ddd, #ddd), linear-gradient(#ddd, #ddd),
